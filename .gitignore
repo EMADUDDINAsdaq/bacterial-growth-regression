@@ -1,0 +1,13 @@
+# Dataset (download separately — see README)
+data/
+fitting-results.csv
+*.zip
+
+# Notebook / Python artifacts
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.vscode/
